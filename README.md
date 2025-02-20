@@ -4,3 +4,17 @@
 </div> 
 
 # End-points
+
+End-points são pontos de acesso de uma aplicação, geralmente usados em APIs para comunicação entre diferentes sistemas. Em termos simples, um end-point é uma URL específica que permite que clientes (como um navegador, um aplicativo mobile ou outro serviço) interajam com um servidor.
+
+# Explicação
+
+- Cada end-point representa um recurso ou ação específica dentro de um sistema.
+- São acessados por meio de requisições HTTP (como GET, POST, PUT, DELETE).
+- Fazem parte de uma API (geralmente REST ou GraphQL).
+
+# Exemplo em uma API REST:
+
+Se tivermos um sistema de gerenciamento de usuários, poderíamos ter os seguintes end-points:
+
+<img src="https://github.com/JosiTubaroski/End-points/blob/main/img/01_End_Points.png"/>
