@@ -26,3 +26,7 @@ Um controlador simples poderia definir esses end-points assim:
 <img src="https://github.com/JosiTubaroski/End-points/blob/main/img/02_Controler.png"/>
 
 <img src="https://github.com/JosiTubaroski/End-points/blob/main/img/03_Controler_2.png"/>
+
+Com esse código, se você fizer uma requisição GET para http://localhost:5000/users/1, por exemplo, receberia algo como:
+
+<img src="https://github.com/JosiTubaroski/End-points/blob/main/img/04_Requisicao.png"/>
